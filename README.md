@@ -26,9 +26,4 @@ The [Tableau Dashboard](https://public.tableau.com/app/profile/aviral.walia3763/
 - Access the Tableau Link to see the Visualization Dashboard.
 
 
-## Authors
-
-- Sukarn Pahuja (0770205)
-- Aviral Walia (0760570)
-- Sudhanshu Kharbanda (0774084)
 
