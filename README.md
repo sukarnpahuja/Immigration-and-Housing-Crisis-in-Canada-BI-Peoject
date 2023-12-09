@@ -1,4 +1,8 @@
+
 # Immigration and Housing Crisis in Canada
+
+
+
 
 ## About 
 This project aims to address the growing concern of the immigration and housing crisis in Canada through data visualization and storytelling. The project will leverage data from Statistics Canada (StatCan) to conduct an Exploratory Data Analysis (EDA) and use data visualization techniques to create compelling narratives that highlight the relationship between immigration patterns and the housing crisis. 
@@ -7,12 +11,15 @@ This project aims to address the growing concern of the immigration and housing 
 
 The [Tableau Dashboard](https://public.tableau.com/app/profile/aviral.walia3763/viz/population_17018129665100/Dashboard2?publish=yes) for this project contains all the visualizations to convey a story about the ongoing Housing Crisis in accorance with huge Immigration targets.
 
+
 ## System Requirements
 
 - Python version 3.0 or latest
 - Pandas Library version 2.0 or latest
 - A computer with internet access
 - A software (Anaconda, VS Code) to run Jupyter Notebooks (.ipynb files)
+ 
+
 
 ## Installation
 
@@ -26,4 +33,10 @@ The [Tableau Dashboard](https://public.tableau.com/app/profile/aviral.walia3763/
 - Access the Tableau Link to see the Visualization Dashboard.
 
 
+
+## Authors
+
+- Sukarn Pahuja (0770205)
+- Aviral Walia (0760570)
+- Sudhanshu Kharbanda (0774084)
 
